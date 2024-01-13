@@ -4,7 +4,7 @@
     "npm": "10.2.4"
   },
   "dependencies": {
-    "aws-cdk": "2.120.0",
+    "aws-cdk": "2.121.0",
     "cdk-dia": "0.10.0"
   }
 }
